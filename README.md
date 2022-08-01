@@ -11,6 +11,7 @@
 # Built with:
 <p>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="VS Code" height="65" style="vertical-align:top; margin:4px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Google_Translate_logo.svg/2048px-Google_Translate_logo.svg.png" alt="VS Code" height="65" style="vertical-align:top; margin:4px">
 </p>
 
 # Getting started:
