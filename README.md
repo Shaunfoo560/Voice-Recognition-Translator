@@ -4,9 +4,9 @@
 <br></br>
 
 # How it works:
-1. Records your voice and converts it into text
+1. Using voice recognition, converts your speech to text
 2. Translates the text into your desired language
-3. Outputs the translated text as speech
+3. Outputs the translated text back as speech
 
 # Built with:
 <p>
